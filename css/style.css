@@ -241,7 +241,20 @@ body {
 .card h4 {
   margin-bottom: 10px;
   font-size: 20px;
-  color: #111;
+  color: #3478c0;
+}
+.learn-more-link {
+  display: inline-block;
+  margin-top: 12px;
+  color: #3478c0;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3 s ease;
+}
+
+.learn-more-link:hover {
+  color: #265c97;
+  text-decoration: underline;
 }
 
 /* Foundations Section */
