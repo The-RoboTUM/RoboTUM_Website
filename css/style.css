@@ -190,7 +190,9 @@ body {
 
 .cta-button:hover {
   background-color: white;
-  color: black;
+  color: #3478c0;
+  text-decoration: underline;
+  transition: all 0.3s ease;
 }
 
 /* About Section */
