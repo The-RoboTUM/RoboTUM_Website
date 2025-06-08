@@ -13,21 +13,7 @@ This website serves as the central hub for:
 Built with HTML, CSS, and vanilla JS — designed to be clean, responsive, and accessible.
 
 ## 📁 Structure
-/
-├── index.html             # (optional alias for home.html)
-├── home.html              # Landing page
-├── contact.html           # Contact form & info
-├── partners.html          # Sponsors & partnership tiers
-├── impressum.html         # Legal notice
-├── 404.html               # Custom error page
-├── assets/
-│   ├── images/            # Logos, icons, photos
-│   ├── videos/            # Background videos
-│   └── icons/             # Social icons
-├── css/
-│   └── style.css          # Main stylesheet
-└── js/
-└── script.js          # Interactivity (forms, navbar)
+├── index.html <!-- optional alias for home.html -->
 
 ## 🛠 Tech Stack
 
