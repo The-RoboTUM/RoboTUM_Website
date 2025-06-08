@@ -13,7 +13,22 @@ This website serves as the central hub for:
 Built with HTML, CSS, and vanilla JS — designed to be clean, responsive, and accessible.
 
 ## 📁 Structure
-├── index.html <!-- optional alias for home.html -->
+
+robotum-website/
+├── home.html            # Landing page
+├── contact.html         # Contact form & outreach info
+├── partners.html        # Sponsors & partnership categories
+├── impressum.html       # Legal notice (Impressum)
+├── 404.html             # Custom error page
+├── README.md            # Project overview and structure
+├── js/
+│   └── script.js        # Interactivity (forms, navbar, UI)
+├── css/
+│   └── style.css        # Main stylesheet (global + pages)
+├── assets/
+│   ├── images/          # Logos, photos, partner logos
+│   ├── icons/           # Social media icons
+│   └── videos/          # Background video for hero section
 
 ## 🛠 Tech Stack
 
