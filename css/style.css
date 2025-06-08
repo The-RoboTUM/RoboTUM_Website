@@ -207,7 +207,10 @@ body {
   text-align: center;
 }
 
-
+.about p{
+  font-size: 20px;
+  color: black;
+}
 /* Projects Section */
 .projects {
   background-color: #f0f0f0;
