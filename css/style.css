@@ -451,15 +451,6 @@ footer .container {
 }
 
 a.partner-card {
-  display: block;
-  text-decoration: none;
-  width: 180px;
-  padding: 20px;
-  background-color: #fff;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-  transition: transform 0.3s;
-
   width: 160px;
   height: 160px;
   padding: 20px;
@@ -477,7 +468,6 @@ a.partner-card:hover {
 }
 
 a.partner-card img {
-  height: auto;
   max-width: 100%;
   max-height: 100%;
   object-fit: contain;
